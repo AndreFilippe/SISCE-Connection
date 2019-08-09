@@ -13,3 +13,6 @@ Usuario: admin
 Senha: 123456789
 
 André Filippe dos Santos - fellipe.12@hotmail.com
+
+#License
+MIT License
