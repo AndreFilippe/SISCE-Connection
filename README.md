@@ -6,11 +6,13 @@ Requisitos
  * Mysql >= 5.7.27
 
 Instruções de instalação
- * na raiz do projeto crie um arquivo bootstrap.php com as suas configurações
- * use o arquivo Exemplo-bootstrap.php para auxiliar na configuração
+ * Na pasta Banco tem o sccript de criação das tabelas do banco de dados.
+ * Na raiz do projeto crie um arquivo bootstrap.php com as suas configurações.
+ * Use o arquivo Exemplo-bootstrap.php para auxiliar na configuração.
 
-Usuario: admin
-Senha: 123456789
+Usuario e senha padrão.
+ * Usuario: admin
+ * Senha: 123456789
 
 André Filippe dos Santos - fellipe.12@hotmail.com
 
